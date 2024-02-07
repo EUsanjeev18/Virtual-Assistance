@@ -8,3 +8,12 @@ Get Current Time: Retrieve the current time using voice commands.
 Fetch Information: Fetch information about any person or topic from Wikipedia.
 Tell Jokes: Get a random joke using voice commands.
 Interactive Responses: Engage in fun and interactive responses to certain queries.
+
+Usage
+*Install the required Python packages using pip:
+pip install speech_recognition pyttsx3 pywhatkit wikipedia pyjokes
+
+*Run the voice_assistant.py script:
+python voice_assistant.py
+
+*Follow the on-screen prompts and speak the desired command to interact with the voice-controlled assistant.
